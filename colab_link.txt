@@ -1,4 +1,9 @@
+Supervised
 https://colab.research.google.com/drive/1oAUjSZ66rR3AN9g96L425uY_YFCEIcni?usp=sharing
 
 Unsupervised 
 https://colab.research.google.com/drive/1VfZgdBxXoUmtkfUo0XHk-LNyvAkEbtlj?usp=sharing
+
+Network
+https://drive.google.com/drive/folders/1rjQlaoCLNkYer4H8fcLXfT6OncZeP_8g?usp=sharing
+
